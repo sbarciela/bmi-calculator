@@ -1,0 +1,20 @@
+    [{
+      "text": "Please enter your height and weight to calculate BMI and receive information"
+    },
+    {
+      "weightType": "underweight",
+      "text": "A BMI range lower than 18.5 is considered 'underweight.'Even if you are underweight, try to avoid foods with a lot of added sugar, fat and salt, like cakes, takeaway foods and sugary drinks. You can put on weight by eating small meals frequently throughout the day. Try to snack on healthy, high energy foods like cheese, nuts, milk-based smoothies and dried fruit."
+    },
+    {
+      "weightType": "at a healthy weight",
+      "text": "A BMI range of 18.5 to 24.9 is considered a 'healthy weight.' Maintaining a healthy weight may lower your chances of experiencing health issues later on, such as obesity and type 2 diabetes. Aim for a nutritious diet with reduced fat and sugar content, incorporating ample fruits and vegetables. Additionally, strive for regular physical activity, ideally about 30 minutes daily for five days a week."  
+    },
+    {
+      "weightType": "overweight",
+      "text": "A BMI range of 25 to 29.9 is considered 'overweight.' Maintaining a healthy weight may lower your chances of experiencing health issues later on, such as obesity and type 2 diabetes. Aim for a nutritious diet with reduced fat and sugar content, incorporating ample fruits and vegetables. Additionally, strive for regular physical activity, ideally about 30 minutes daily for five days a week."  
+    },
+    {
+      "weightType": "obese",
+      "text": "A BMI higher than 30 is considered 'obesity.' The best way to treat obesity is to eat a healthy reduced-calorie diet and exercise regularly. To do this, you can: eat a balanced calorie-controlled diet as recommended by a GP or weight loss management health professional (such as a dietitian)"  
+    }
+] 
