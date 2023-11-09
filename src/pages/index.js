@@ -65,7 +65,7 @@ export default function Home() {
    setBmi(result)
    setResult(true)
    
-
+//
     }
 
 
