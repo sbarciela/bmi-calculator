@@ -1,6 +1,6 @@
 
 
-function Results({result, bmi}){
+function Results({bmi}){
 
 
     return(

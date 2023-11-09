@@ -43,7 +43,7 @@ function Form({metric, toggleMetric, toggleImperial, result, bmiResult, bmi}){
                        
 
             {/*result */}
-            {!result?<Welcome/>:<Results result={result} bmi={bmi} />}
+            {!result?<Welcome/>:<Results bmi={bmi} />}
             
             
         </div>

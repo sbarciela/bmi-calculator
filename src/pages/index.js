@@ -20,16 +20,16 @@ const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
 
-  const [metric , SetMetric]=useState(true)
+  const [metric , setMetric]=useState(true)
   const [result, setResult]=useState(false)
   const [bmi, setBmi]= useState()
 //
   function toggleMetric(){
-      SetMetric(true)
+      setMetric(true)
       setResult(false)
   }
   function toggleImperial(){
-      SetMetric(false)
+      setMetric(false)
       setResult(false)
   }
 
@@ -63,6 +63,7 @@ export default function Home() {
       weightType:weightType
     }
    setBmi(result)
+   setResult(true)
    
 
     }
