@@ -1,6 +1,6 @@
-import Barbell from '../../assets/barbell.svg'
-import Food from '../../assets/food.svg'
-import Moon from '../../assets/moon-stars.svg'
+import Barbell from '../assets/barbell.svg'
+import Food from '../assets/food.svg'
+import Moon from '../assets/moon-stars.svg'
 
 
 function Tips (){

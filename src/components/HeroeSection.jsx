@@ -1,4 +1,4 @@
-import GameIcon from '../../assets/game-icon.svg'
+import GameIcon from '../assets/game-icon.svg'
 import Form from './Form'
 
 function HeroeSection({metric, toggleMetric, toggleImperial, result, bmiResult , bmi}){

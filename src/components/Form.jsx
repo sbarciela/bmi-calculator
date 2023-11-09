@@ -1,6 +1,6 @@
 'use client'
-import RadioActive from '../../assets/radioActive.svg'
-import Radio from '../../assets/radio.svg'
+import RadioActive from '../assets/radioActive.svg'
+import Radio from '../assets/radio.svg'
 import Results from './Results'
 import Welcome from './Welcome'
 import InputsImperial from './InputsImperial'

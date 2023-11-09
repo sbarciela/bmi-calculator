@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import Arrow from '../../assets/arrow.svg'
+import Arrow from '../assets/arrow.svg'
 
 
 

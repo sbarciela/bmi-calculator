@@ -1,8 +1,8 @@
-import Baby from '../../assets/baby.svg'
-import Biceps from '../../assets/biceps.svg'
-import Age from '../../assets/cake.svg'
-import Gender from '../../assets/gender.svg'
-import Person from '../../assets/person.svg'
+import Baby from '../assets/baby.svg'
+import Biceps from '../assets/biceps.svg'
+import Age from '../assets/cake.svg'
+import Gender from '../assets/gender.svg'
+import Person from '../assets/person.svg'
 import Image from 'next/image'
 
 function Limitations(){
