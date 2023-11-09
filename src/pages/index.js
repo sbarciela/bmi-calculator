@@ -4,11 +4,11 @@ import Head from 'next/head'
 import Image from 'next/image'
 import { Inter } from 'next/font/google'
 //components
-import HeroeSection from './components/HeroeSection'
-import YourResult from './components/YourResult'
-import Tips from './components/Tips'
-import Limitations from './components/Limitations'
-import Footer from './components/Footer'
+import HeroeSection from '../components/HeroeSection'
+import YourResult from '../components/YourResult'
+import Tips from '../components/Tips'
+import Limitations from '../components/Limitations'
+import Footer from '../components/Footer'
 import { useState } from 'react'
 //results json
 import database from "../results.json";
@@ -63,9 +63,7 @@ export default function Home() {
       weightType:weightType
     }
    setBmi(result)
-   
-   
-//
+
     }
 
 
