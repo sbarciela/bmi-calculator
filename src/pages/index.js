@@ -22,7 +22,7 @@ export default function Home() {
 
   const [metric , setMetric]=useState(true)
   const [result, setResult]=useState(false)
-  const [bmi, setBmi]= useState(null)
+  const [bmi, setBmi]= useState({})
 //
   function toggleMetric(){
       setMetric(true)
@@ -63,7 +63,7 @@ export default function Home() {
       weightType:weightType
     }
    setBmi(result)
-   setResult(true)
+   
    
 //
     }
