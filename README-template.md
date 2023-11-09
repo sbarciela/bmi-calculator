@@ -20,6 +20,9 @@ This is a solution to the [Body Mass Index Calculator challenge on Frontend Ment
 
 ## Overview
 
+This web application allows you to calculate and evaluate your body mass index, including information and tips for your result 
+
+
 ### The challenge
 
 Users should be able to:
