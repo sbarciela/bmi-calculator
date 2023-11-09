@@ -22,7 +22,7 @@ export default function Home() {
 
   const [metric , setMetric]=useState(true)
   const [result, setResult]=useState(false)
-  const [bmi, setBmi]= useState()
+  const [bmi, setBmi]= useState(null)
 //
   function toggleMetric(){
       setMetric(true)
